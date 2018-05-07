@@ -300,3 +300,6 @@ __pycache__/
 
 #ExampleRangeTester artifacts
 TesterMetadata.xml
+
+# License files
+*.licx
