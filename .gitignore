@@ -303,3 +303,6 @@ TesterMetadata.xml
 
 # Backup files
 *.bak
+
+# Local server for npm packages
+.npmrc
