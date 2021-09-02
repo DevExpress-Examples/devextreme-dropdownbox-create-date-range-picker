@@ -6,7 +6,7 @@ A repository template for creating new examples.
 
 The description in a free form.
 
-Resulting image.
+Resulting image (if necessary).
 
 Implementation details: steps, code snippets, and other technical information in a free form.
 
