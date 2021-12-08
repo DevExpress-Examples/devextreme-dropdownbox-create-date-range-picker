@@ -1,22 +1,16 @@
-<!--
-A repository template for creating new examples.
--->
-
 # Product/Platform - Task
 
-The description in a free form.
+This is the repository template for creating new examples. Describe the solved task here.
 
-Resulting image (if necessary).
+Put a screenshot that illustrates the result here.
 
-Implementation details: steps, code snippets, and other technical information in a free form.
+Then, add implementation details (steps, code snippets, and other technical information in a free form), or add a link to an existing document with implementation details. 
 
 ## Files to Look At
 
 - link.cs (VB: link.vb)
 - link.js
 - ...
-
-<!-- 
 
 ## Documentation
 
@@ -29,5 +23,3 @@ Implementation details: steps, code snippets, and other technical information in
 - link
 - link
 - ...
-
--->
