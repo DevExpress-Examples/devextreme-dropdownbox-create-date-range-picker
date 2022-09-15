@@ -6,7 +6,7 @@ Put a screenshot that illustrates the result here.
 
 Then, add implementation details (steps, code snippets, and other technical information in a free form), or add a link to an existing document with implementation details. 
 
-## Files to Look At
+## Files to Review
 
 - link.cs (VB: link.vb)
 - link.js
