@@ -12,7 +12,7 @@ npm install
 
 Take a look at the following file of this example to see the required code:
 
-[index.js]()
+[index.js](https://github.com/DevExpress-Examples/DevExtreme-How-to-create-a-date-range-picker/blob/22.1.6%2B/jQuery/src/index.js)
 
 ## Development server
 
