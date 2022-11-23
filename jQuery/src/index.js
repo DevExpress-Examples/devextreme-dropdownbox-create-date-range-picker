@@ -11,7 +11,7 @@ $(() => {
             updateInfo();
         },
         dropDownOptions: {
-            width: 324
+            width: 'auto'
         },
         fieldTemplate(value, fieldElement) {
             const formatDate = DevExpress.localization.formatDate;
