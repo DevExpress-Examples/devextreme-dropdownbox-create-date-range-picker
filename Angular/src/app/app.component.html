@@ -1,0 +1,22 @@
+<div>
+  Start: {{ dateRangeValue[0] }}
+</div>
+<div>
+  End: {{ dateRangeValue[1] }}
+</div>
+
+<dx-drop-down-box #dropDownBox [(value)]="dateRangeValue" fieldTemplate="field">
+  <dxo-drop-down-options width="auto"></dxo-drop-down-options>
+
+  <div *dxTemplate="let data of 'field'">
+    <dx-text-box [readOnly]="true" [value]="mapDates(data)"></dx-text-box>
+  </div>
+
+  <div *dxTemplate="let data of 'content'">
+    <calendar
+      (emitter)="updateDateRangeValue($event)"
+      [dropDownBox]="dropDownBox"
+      [dateRangeValue]="dateRangeValue"
+    ></calendar>
+  </div>
+</dx-drop-down-box>
