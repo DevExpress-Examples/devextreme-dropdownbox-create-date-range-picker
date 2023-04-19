@@ -14,9 +14,10 @@ This example demonstrates how to create a simple date range picker using [DropDo
 
 - **Angular**
     - [app.component.html](Angular/src/app/app.component.html)
-    - [app.component.js](Angular/src/app/app.component.js)
+    - [app.component.ts](Angular/src/app/app.component.ts)
+		
 		- [calendar.component.html](Angular/src/app/calendar/calendar.component.html)
-		- [calendar.component.js](Angular/src/app/calendar/calendar.component.js)
+		- [calendar.component.ts](Angular/src/app/calendar/calendar.component.ts)
 
 - **jQuery**
     - [index.html](jQuery/src/index.html)
