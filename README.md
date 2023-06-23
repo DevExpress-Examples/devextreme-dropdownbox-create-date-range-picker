@@ -4,27 +4,12 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# DropDownBox for DevExtreme - How to create a date range picker
+# (Obsolete) This example is obsolete
 
-This example demonstrates how to create a simple date range picker using [DropDownBox](https://js.devexpress.com/Documentation/Guide/UI_Components/DropDownBox/Getting_Started_with_DropDownBox/) and [Calendar](https://js.devexpress.com/Documentation/Guide/UI_Components/Calendar/Getting_Started_with_Calendar/).
+You can now use our [DateRangeBox](https://js.devexpress.com/Documentation/Guide/UI_Components/DateRangeBox/Getting_Started_with_DateRangeBox/) component. You can find an actual example in our technical demos:
 
-<div align="center"><img alt="DropDownBox for DevExtreme - How to create a date range picker" src="sample.png" /></div>
-
-## Files to Review
-
-- **Angular**
-    - [app.component.html](Angular/src/app/app.component.html)
-    - [app.component.ts](Angular/src/app/app.component.ts)
-		
-		- [calendar.component.html](Angular/src/app/calendar/calendar.component.html)
-		- [calendar.component.ts](Angular/src/app/calendar/calendar.component.ts)
-
-- **jQuery**
-    - [index.html](jQuery/src/index.html)
-    - [index.js](jQuery/src/index.js)
-
-## Documentation
-
-- [Calendar - API Reference](https://js.devexpress.com/Documentation/ApiReference/UI_Components/dxCalendar/)
-
-- [DropDownBox - API Reference](https://js.devexpress.com/Documentation/ApiReference/UI_Components/dxDropDownBox/)
+[Angular](https://js.devexpress.com/Demos/WidgetsGallery/Demo/DateRangeBox/Overview/Angular/Light/)<br/>
+[React](https://js.devexpress.com/Demos/WidgetsGallery/Demo/DateRangeBox/Overview/React/Light/)<br/>
+[Vue](https://js.devexpress.com/Demos/WidgetsGallery/Demo/DateRangeBox/Overview/Vue/Light/)<br/>
+[ASP.NET](https://demos.devexpress.com/ASPNetCore/Demo/DateRangeBox/Overview/)<br/>
+[jQuery](https://js.devexpress.com/Demos/WidgetsGallery/Demo/DateRangeBox/Overview/jQuery/Light/)
