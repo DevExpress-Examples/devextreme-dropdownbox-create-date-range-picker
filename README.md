@@ -6,6 +6,13 @@
 
 # DropDownBox for DevExtreme - How to create a date range picker
 
+> **_NOTE:_** In v23.1, you can now use our [DateRangeBox](https://js.devexpress.com/Documentation/Guide/UI_Components/DateRangeBox/Getting_Started_with_DateRangeBox/) component. You can find an actual example in our technical demos:
+[Angular](https://js.devexpress.com/Demos/WidgetsGallery/Demo/DateRangeBox/Overview/Angular/Light/) |
+[React](https://js.devexpress.com/Demos/WidgetsGallery/Demo/DateRangeBox/Overview/React/Light/) |
+[Vue](https://js.devexpress.com/Demos/WidgetsGallery/Demo/DateRangeBox/Overview/Vue/Light/) |
+[ASP.NET](https://demos.devexpress.com/ASPNetCore/Demo/DateRangeBox/Overview/) |
+[jQuery](https://js.devexpress.com/Demos/WidgetsGallery/Demo/DateRangeBox/Overview/jQuery/Light/)
+
 This example demonstrates how to create a simple date range picker using [DropDownBox](https://js.devexpress.com/Documentation/Guide/UI_Components/DropDownBox/Getting_Started_with_DropDownBox/) and [Calendar](https://js.devexpress.com/Documentation/Guide/UI_Components/Calendar/Getting_Started_with_Calendar/).
 
 <div align="center"><img alt="DropDownBox for DevExtreme - How to create a date range picker" src="sample.png" /></div>
