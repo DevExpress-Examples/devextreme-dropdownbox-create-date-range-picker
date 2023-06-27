@@ -6,10 +6,13 @@
 
 # (Obsolete) This example is obsolete
 
-You can now use our [DateRangeBox](https://js.devexpress.com/Documentation/Guide/UI_Components/DateRangeBox/Getting_Started_with_DateRangeBox/) component. You can find an actual example in our technical demos:
+In v23.1, you can now use our [DateRangeBox](https://js.devexpress.com/Documentation/Guide/UI_Components/DateRangeBox/Getting_Started_with_DateRangeBox/) component. You can find an actual example in our technical demos:
 
 [Angular](https://js.devexpress.com/Demos/WidgetsGallery/Demo/DateRangeBox/Overview/Angular/Light/)<br/>
 [React](https://js.devexpress.com/Demos/WidgetsGallery/Demo/DateRangeBox/Overview/React/Light/)<br/>
 [Vue](https://js.devexpress.com/Demos/WidgetsGallery/Demo/DateRangeBox/Overview/Vue/Light/)<br/>
 [ASP.NET](https://demos.devexpress.com/ASPNetCore/Demo/DateRangeBox/Overview/)<br/>
 [jQuery](https://js.devexpress.com/Demos/WidgetsGallery/Demo/DateRangeBox/Overview/jQuery/Light/)
+
+For older versions, refer to other branches:
+ - [22.1.6+](https://github.com/DevExpress-Examples/devextreme-dropdownbox-create-date-range-picker/tree/22.1.6+)
