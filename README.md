@@ -18,7 +18,7 @@ In v23.1, you can now use our [DateRangeBox](https://js.devexpress.com/Documenta
 For older versions, refer to other branches:
  - [22.1.6+](https://github.com/DevExpress-Examples/devextreme-dropdownbox-create-date-range-picker/tree/22.1.6+)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=devextreme-dropdownbox-create-date-range-picker&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=devextreme-dropdownbox-create-date-range-picker&~~~was_helpful=no)
 
